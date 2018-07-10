@@ -5,13 +5,7 @@ In this repo's [corresponding tutorial](http://iosbrain.com/blog/2018/07/10/new-
 
 I'll show you how a user can take action in response to a notification by interacting <em>only</em> with a customized notification interface, and conveniently <em>not</em> having to open up an app. I'll be showcasing software released to developers just ten days ago (June 19), specifically iOS 12 beta 2 and Xcode 10 beta 2.
 
-By the end of this tutorial, you'll be able allow to your app users to get a notification, see a custom UI, click on a button, and get a confirmation -- <em>all inside a notification</em>, like so:
-
-![alt text][logo1]
-
-[logo1]: http://iosbrain.com/wp-content/uploads/2018/07/Receive_Interact_Demo.gif "Custom notification UI"
-
-[Continue reading...](http://iosbrain.com/blog/2018/07/10/new-in-ios-12-adding-a-custom-ui-and-interactivity-inside-local-and-push-notifications/)
+By the end of this tutorial, you'll be able allow to your app users to get a notification, see a custom UI, click on a button, and get a confirmation. [Continue reading...](http://iosbrain.com/blog/2018/07/10/new-in-ios-12-adding-a-custom-ui-and-interactivity-inside-local-and-push-notifications/)
 
 ## Xcode 10 beta 2 project settings
 **To get this project running on the Simulator or a physical device (iPhone, iPad)**, go to the following locations in Xcode and make the suggested changes:
